@@ -1,0 +1,23 @@
+/* 
+las classes se invocan con .
+los ids se invocan con #
+*/
+.odd-number {
+  background-color: #ffc0cb;
+  font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#second-element {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+.odd-number .third-element {
+  font-size: 24px;
+}
+
+#fourth-element {
+  background-color: #90ee90;
+  font-size: 24px;
+  font-weight: bold;
+}
